@@ -1,0 +1,4 @@
+include *.md
+include *.sh
+include tox.ini
+recursive-include tests *.py
