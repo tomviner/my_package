@@ -1,4 +1,4 @@
 # my_package
-A test package to provide simple usage example
-=======
+
+A test package to provide simple usage examples
 
